@@ -1,0 +1,52 @@
+<top-menu-directive></top-menu-directive>
+
+<div class="container starter-template ">
+  <!-- left bar -->
+  <div class="row">
+    <div class="col-md-4">
+      
+      <my-account-directive></my-account-directive>
+      <recommend-user-directive></recommend-user-directive>
+      <trend-directive></trend-directive>
+      
+    </div>
+    <!-- main -->
+    <div class="col-md-8">
+      <div class="panel panel-default">
+        <div class="tweet-textarea">
+          <div class="panel-body">
+
+            <div class="row">
+              <div class="col-md-1">
+                <img class="user-icon" src="http://dummyimage.com/50x50">
+              </div>
+              <div class="col-md-11">
+                <textarea placeholder="いまどうしてる？" ng-model="tweetText"></textarea> 
+              </div>
+            </div>
+
+            <div class="row tweet-botton">
+              <div class="col-md-12">
+                <span class="tweet-num">123</span>
+                <button type="button" class="btn btn-info">
+                  <span class="glyphicon glyphicon glyphicon-pencil" aria-hidden="true"></span> ツイート
+                </button>
+              </div>
+            </div>
+
+          </div>
+        </div>
+
+        <!-- tweets -->
+        <div class="tweet-area">
+          <div ng-repeat="tweet in tweetList" class="tweet">
+
+            <tweet-directive></tweet-directive>
+
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </div><!-- ./row -->
+</div><!-- /.container -->

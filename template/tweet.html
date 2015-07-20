@@ -1,0 +1,11 @@
+<div>
+  <dt class="tweet-user"><img class="user-icon" ng-src="{{tweet.user.profile_image_url}}">{{tweet.user.name}} @{{tweet.user.screen_name}} {{tweet.created_at | TweetDateFilter}}</dt>
+  <dd>{{tweet.text}}</dd>
+  
+  <div class="tweet-menu">
+    <a ng-click="reply()"><span class="glyphicon glyphicon-share-alt" aria-hidden="true"></span></a>
+    <a ng-click="retweet()"><span class="glyphicon glyphicon-retweet" aria-hidden="true"></span></a>
+    <a ng-click="fav()"><span class="glyphicon glyphicon-star" aria-hidden="true"></span></a>
+    <a ng-click="menu()"><span class="glyphicon glyphicon-option-horizontal" aria-hidden="true"></span></a>
+  </div>
+</div>
