@@ -4,7 +4,7 @@ module TwitterApp {
 		public static name: string = "CommonService";
 		// TODO:TwitterAPIのURL。定数にせず設定ファイルなどに外出しすべき。
 		public static API_BASE_URL: string = "/angularjs_twitter/api_dummy/";
-
+		
 		public constructor(public $modal: ng.ui.bootstrap.IModalService) {
 
 		}

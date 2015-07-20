@@ -64,10 +64,13 @@ var TwitterApp;
             // init
             this.$scope.tweetText = "";
             // binding
-            // TODO:TimeLineVMはTLのみ管理すべき。外側に全体を管理するVMが必要です。
             $scope.$on(TwitterApp.Messages.Reply, this.recieveReplyEmit.bind(this));
             $scope.$on(TwitterApp.Messages.Fav, this.recieveFavEmit.bind(this));
             $scope.$on(TwitterApp.Messages.Retweet, this.recieveRetweetEmit.bind(this));
+            $scope.tweet = this.tweet.bind(this);
+            $scope.tweetTextChange = this.tweetTextChange.bind(this);
+            // 初期値の反映
+            this.tweetTextChange();
         }
         BaseTimeLineViewModel.prototype.request = function () {
             this.$scope.tweetList = this.timeLineService.requestTimeLine();
@@ -79,17 +82,23 @@ var TwitterApp;
         BaseTimeLineViewModel.prototype.recieveReplyEmit = function (event, tweet) {
             console.log("recieveReplyEmit", tweet);
             this.replyToTweet = tweet;
-            // TODO:serviceでやるべき
-            // すでにscreen nameを記載している場合は新たに付加しない
-            if (this.$scope.tweetText.indexOf("@" + tweet.user.screen_name + " ") >= 0) {
-                return;
-            }
-            this.$scope.tweetText = "@" + tweet.user.screen_name + " " + this.$scope.tweetText;
+            this.$scope.tweetText = this.timeLineService.addMentionToTweetText(tweet, this.$scope.tweetText);
+            this.tweetTextChange();
         };
         BaseTimeLineViewModel.prototype.recieveFavEmit = function (event, tweet) {
             this.commonService.showModal(this.$scope, "TODO", "いつから実装されていると錯覚していた？");
         };
         BaseTimeLineViewModel.prototype.recieveRetweetEmit = function (event, tweet) {
+            this.commonService.showModal(this.$scope, "TODO", "いつから実装されていると錯覚していた？");
+        };
+        /**
+         * tweet本文の変更を検知し、scopeに残り文字数を設定する。
+         * この程度であればtemplateでやってしまいたい気になるが極力templateに処理は書かない。
+         */
+        BaseTimeLineViewModel.prototype.tweetTextChange = function () {
+            this.$scope.tweetRemainCount = (140 - this.$scope.tweetText.length);
+        };
+        BaseTimeLineViewModel.prototype.tweet = function () {
             this.commonService.showModal(this.$scope, "TODO", "いつから実装されていると錯覚していた？");
         };
         return BaseTimeLineViewModel;
@@ -317,7 +326,8 @@ var TwitterApp;
         };
         CommonService.name = "CommonService";
         // TODO:TwitterAPIのURL。定数にせず設定ファイルなどに外出しすべき。
-        CommonService.API_BASE_URL = "/angularjs_twitter/api_dummy/";
+        // public static API_BASE_URL: string = "/angularjs_twitter/api_dummy/";
+        CommonService.API_BASE_URL = "/api_dummy/";
         return CommonService;
     })();
     TwitterApp.CommonService = CommonService;
