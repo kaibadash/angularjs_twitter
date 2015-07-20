@@ -316,7 +316,8 @@ var TwitterApp;
             };
         };
         CommonService.name = "CommonService";
-        CommonService.API_BASE_URL = "/api_dummy/";
+        // TODO:TwitterAPIのURL。定数にせず設定ファイルなどに外出しすべき。
+        CommonService.API_BASE_URL = "/angularjs_twitter/api_dummy/";
         return CommonService;
     })();
     TwitterApp.CommonService = CommonService;
