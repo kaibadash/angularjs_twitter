@@ -1,130 +1,23 @@
 [
   {
-    "created_at":"Thu Aug 01 10:52:58 +0000 2013",
-    "id":362888680500772864,
-    "id_str":"362888680500772864",
-    "text":"@ematette えへ",
-    "source":"<a href=\"http:\/\/twipple.jp\/\" rel=\"nofollow\">ついっぷる for iPhone<\/a>",
+    "created_at":"Sat Jul 18 01:33:55 +0000 2015",
+    "id":622217702950596608,
+    "id_str":"622217702950596608",
+    "text":"@waketi 烈風改の開発あくしろよ",
+    "source":"<a href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\">Twitter for iPhone<\/a>",
     "truncated":false,
-    "in_reply_to_status_id":362888554034114560,
-    "in_reply_to_status_id_str":"362888554034114560",
-    "in_reply_to_user_id":116937821,
-    "in_reply_to_user_id_str":"116937821",
-    "in_reply_to_screen_name":"ematette",
+    "in_reply_to_status_id":622210973349228544,
+    "in_reply_to_status_id_str":"622210973349228544",
+    "in_reply_to_user_id":212984680,
+    "in_reply_to_user_id_str":"212984680",
+    "in_reply_to_screen_name":"waketi",
     "user":{
-      "id":283847589,
-      "id_str":"283847589",
-      "name":"なかの",
-      "screen_name":"kaibadash4",
-      "location":"なかの",
-      "description":"うへうへなかの！",
-      "url":"http:\/\/t.co\/fUhbpkNCq6",
-      "entities":{
-        "url":{
-          "urls":[
-            {
-              "url":"http:\/\/t.co\/fUhbpkNCq6",
-              "expanded_url":"http:\/\/www.google.co.jp",
-              "display_url":"google.co.jp",
-              "indices":[
-                0,
-                22
-              ]
-            }
-          ]
-        },
-        "description":{
-          "urls":[
-            
-          ]
-        }
-      },
-      "protected":true,
-      "followers_count":8,
-      "friends_count":9,
-      "listed_count":9,
-      "created_at":"Mon Apr 18 04:14:26 +0000 2011",
-      "favourites_count":67,
-      "utc_offset":-36000,
-      "time_zone":"Hawaii",
-      "geo_enabled":false,
-      "verified":false,
-      "statuses_count":475,
-      "lang":"ja",
-      "contributors_enabled":false,
-      "is_translator":false,
-      "is_translation_enabled":false,
-      "profile_background_color":"C0DEED",
-      "profile_background_image_url":"http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
-      "profile_background_image_url_https":"https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
-      "profile_background_tile":false,
-      "profile_image_url":"http:\/\/pbs.twimg.com\/profile_images\/378800000224560214\/10bd5e3e790edc3736880a18ffaa8735_normal.png",
-      "profile_image_url_https":"https:\/\/pbs.twimg.com\/profile_images\/378800000224560214\/10bd5e3e790edc3736880a18ffaa8735_normal.png",
-      "profile_link_color":"0084B4",
-      "profile_sidebar_border_color":"C0DEED",
-      "profile_sidebar_fill_color":"DDEEF6",
-      "profile_text_color":"333333",
-      "profile_use_background_image":true,
-      "has_extended_profile":false,
-      "default_profile":true,
-      "default_profile_image":false,
-      "following":true,
-      "follow_request_sent":false,
-      "notifications":false
-    },
-    "geo":null,
-    "coordinates":null,
-    "place":null,
-    "contributors":null,
-    "is_quote_status":false,
-    "retweet_count":0,
-    "favorite_count":0,
-    "entities":{
-      "hashtags":[
-        
-      ],
-      "symbols":[
-        
-      ],
-      "user_mentions":[
-        {
-          "screen_name":"ematette",
-          "name":"まん",
-          "id":116937821,
-          "id_str":"116937821",
-          "indices":[
-            0,
-            9
-          ]
-        }
-      ],
-      "urls":[
-        
-      ]
-    },
-    "favorited":false,
-    "retweeted":false,
-    "lang":"ja"
-  },
-  {
-    "created_at":"Thu Aug 01 10:46:42 +0000 2013",
-    "id":362887104470065152,
-    "id_str":"362887104470065152",
-    "text":"あああか (｡´✷ฺЗ✷ฺ)  #挨拶大事  @ematette おっすおっす http:\/\/aaa.com\/",
-    "source":"<a href=\"http:\/\/twipple.jp\/\" rel=\"nofollow\">ついっぷる for iPhone<\/a>",
-    "truncated":false,
-    "in_reply_to_status_id":null,
-    "in_reply_to_status_id_str":null,
-    "in_reply_to_user_id":null,
-    "in_reply_to_user_id_str":null,
-    "in_reply_to_screen_name":null,
-    "user":{
-      "id":283796300,
-      "id_str":"283796300",
-      "name":"鬼",
-      "screen_name":"kaibadash",
-      "location":"悲しい。",
-      "description":"赤坂見附いきたいね\nほんと。",
+      "id":16325692,
+      "id_str":"16325692",
+      "name":"joniburn",
+      "screen_name":"joniburn",
+      "location":"Ramuh鯖",
+      "description":"チャーハンを作って食べるよ！ 艦これ,FF14,jubeat",
       "url":null,
       "entities":{
         "description":{
@@ -133,453 +26,37 @@
           ]
         }
       },
-      "protected":true,
-      "followers_count":15,
-      "friends_count":14,
-      "listed_count":5,
-      "created_at":"Mon Apr 18 01:46:53 +0000 2011",
-      "favourites_count":24,
-      "utc_offset":-21600,
-      "time_zone":"Mazatlan",
-      "geo_enabled":true,
-      "verified":false,
-      "statuses_count":711,
-      "lang":"ja",
-      "contributors_enabled":false,
-      "is_translator":false,
-      "is_translation_enabled":false,
-      "profile_background_color":"C0DEED",
-      "profile_background_image_url":"http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
-      "profile_background_image_url_https":"https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
-      "profile_background_tile":false,
-      "profile_image_url":"http:\/\/pbs.twimg.com\/profile_images\/2595508418\/bbwz093o965pvpgg7e6d_normal.gif",
-      "profile_image_url_https":"https:\/\/pbs.twimg.com\/profile_images\/2595508418\/bbwz093o965pvpgg7e6d_normal.gif",
-      "profile_link_color":"0084B4",
-      "profile_sidebar_border_color":"C0DEED",
-      "profile_sidebar_fill_color":"DDEEF6",
-      "profile_text_color":"333333",
-      "profile_use_background_image":true,
-      "has_extended_profile":false,
-      "default_profile":true,
-      "default_profile_image":false,
-      "following":true,
-      "follow_request_sent":false,
-      "notifications":true
-    },
-    "geo":{
-      "type":"Point",
-      "coordinates":[
-        35.69977,
-        139.7007
-      ]
-    },
-    "coordinates":{
-      "type":"Point",
-      "coordinates":[
-        139.7007,
-        35.69977
-      ]
-    },
-    "place":{
-      "id":"7ee61f505fdfdf5c",
-      "url":"https:\/\/api.twitter.com\/1.1\/geo\/id\/7ee61f505fdfdf5c.json",
-      "place_type":"city",
-      "name":"新宿区",
-      "full_name":"東京都 新宿区",
-      "country_code":"JP",
-      "country":"日本",
-      "contained_within":[
-        
-      ],
-      "bounding_box":{
-        "type":"Polygon",
-        "coordinates":[
-          [
-            [
-              139.673548995096,
-              35.669140998834
-            ],
-            [
-              139.745890996453,
-              35.669140998834
-            ],
-            [
-              139.745890996453,
-              35.7244900000574
-            ],
-            [
-              139.673548995096,
-              35.7244900000574
-            ]
-          ]
-        ]
-      },
-      "attributes":{
-        
-      }
-    },
-    "contributors":null,
-    "is_quote_status":false,
-    "retweet_count":0,
-    "favorite_count":0,
-    "entities":{
-      "hashtags":[
-        {
-          "text":"あかさ",
-          "indices":[
-            16,
-            20
-          ]
-        }
-      ],
-      "symbols":[
-        
-      ],
-      "user_mentions":[
-        {
-          "screen_name":"ematette",
-          "name":"まん",
-          "id":116937821,
-          "id_str":"116937821",
-          "indices":[
-            22,
-            31
-          ]
-        }
-      ],
-      "urls":[
-        {
-          "url":"http:\/\/t.co\/4rMBsrp38y",
-          "expanded_url":"http:\/\/p.twipple.jp\/qNEPX",
-          "display_url":"p.twipple.jp\/qNEPX",
-          "indices":[
-            37,
-            59
-          ]
-        }
-      ]
-    },
-    "favorited":false,
-    "retweeted":false,
-    "possibly_sensitive":false,
-    "lang":"ja"
-  },
-  {
-    "created_at":"Wed Jun 05 05:56:53 +0000 2013",
-    "id":342158060996947969,
-    "id_str":"342158060996947969",
-    "text":"@ematette @3735928495 \nKana",
-    "source":"<a href=\"http:\/\/twipple.jp\/\" rel=\"nofollow\">ついっぷる Pro for iPhone<\/a>",
-    "truncated":false,
-    "in_reply_to_status_id":327311252449804289,
-    "in_reply_to_status_id_str":"327311252449804289",
-    "in_reply_to_user_id":116937821,
-    "in_reply_to_user_id_str":"116937821",
-    "in_reply_to_screen_name":"ematette",
-    "user":{
-      "id":283847589,
-      "id_str":"283847589",
-      "name":"なかの",
-      "screen_name":"kaibadash4",
-      "location":"なかの",
-      "description":"うへうへなかの！",
-      "url":"http:\/\/t.co\/fUhbpkNCq6",
-      "entities":{
-        "url":{
-          "urls":[
-            {
-              "url":"http:\/\/t.co\/fUhbpkNCq6",
-              "expanded_url":"http:\/\/www.google.co.jp",
-              "display_url":"google.co.jp",
-              "indices":[
-                0,
-                22
-              ]
-            }
-          ]
-        },
-        "description":{
-          "urls":[
-            
-          ]
-        }
-      },
-      "protected":true,
-      "followers_count":8,
-      "friends_count":9,
-      "listed_count":9,
-      "created_at":"Mon Apr 18 04:14:26 +0000 2011",
-      "favourites_count":67,
-      "utc_offset":-36000,
-      "time_zone":"Hawaii",
-      "geo_enabled":false,
-      "verified":false,
-      "statuses_count":475,
-      "lang":"ja",
-      "contributors_enabled":false,
-      "is_translator":false,
-      "is_translation_enabled":false,
-      "profile_background_color":"C0DEED",
-      "profile_background_image_url":"http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
-      "profile_background_image_url_https":"https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
-      "profile_background_tile":false,
-      "profile_image_url":"http:\/\/pbs.twimg.com\/profile_images\/378800000224560214\/10bd5e3e790edc3736880a18ffaa8735_normal.png",
-      "profile_image_url_https":"https:\/\/pbs.twimg.com\/profile_images\/378800000224560214\/10bd5e3e790edc3736880a18ffaa8735_normal.png",
-      "profile_link_color":"0084B4",
-      "profile_sidebar_border_color":"C0DEED",
-      "profile_sidebar_fill_color":"DDEEF6",
-      "profile_text_color":"333333",
-      "profile_use_background_image":true,
-      "has_extended_profile":false,
-      "default_profile":true,
-      "default_profile_image":false,
-      "following":true,
-      "follow_request_sent":false,
-      "notifications":false
-    },
-    "geo":null,
-    "coordinates":null,
-    "place":null,
-    "contributors":null,
-    "is_quote_status":false,
-    "retweet_count":0,
-    "favorite_count":0,
-    "entities":{
-      "hashtags":[
-        
-      ],
-      "symbols":[
-        
-      ],
-      "user_mentions":[
-        {
-          "screen_name":"ematette",
-          "name":"まん",
-          "id":116937821,
-          "id_str":"116937821",
-          "indices":[
-            0,
-            9
-          ]
-        },
-        {
-          "screen_name":"3735928495",
-          "name":"deadbeaf",
-          "id":227268739,
-          "id_str":"227268739",
-          "indices":[
-            10,
-            21
-          ]
-        }
-      ],
-      "urls":[
-        
-      ]
-    },
-    "favorited":false,
-    "retweeted":false,
-    "lang":"in"
-  },
-  {
-    "created_at":"Fri May 17 06:23:49 +0000 2013",
-    "id":335279470036529152,
-    "id_str":"335279470036529152",
-    "text":"@ematette \n #gggg \n ( 田園都市線 三軒茶屋駅 http:\/\/pokosho.com\/ )  #pokosho",
-    "source":"<a href=\"http:\/\/twipple.jp\/\" rel=\"nofollow\">ついっぷる for Android<\/a>",
-    "truncated":false,
-    "in_reply_to_status_id":null,
-    "in_reply_to_status_id_str":null,
-    "in_reply_to_user_id":116937821,
-    "in_reply_to_user_id_str":"116937821",
-    "in_reply_to_screen_name":"ematette",
-    "user":{
-      "id":283853937,
-      "id_str":"283853937",
-      "name":"こわいのやめ",
-      "screen_name":"kaibadash5",
-      "location":"たぶん東",
-      "description":"コワイよコワイ",
-      "url":"http:\/\/t.co\/FhyoJ4rh3M",
-      "entities":{
-        "url":{
-          "urls":[
-            {
-              "url":"http:\/\/t.co\/FhyoJ4rh3M",
-              "expanded_url":"http:\/\/www.yahoo.co.jp",
-              "display_url":"yahoo.co.jp",
-              "indices":[
-                0,
-                22
-              ]
-            }
-          ]
-        },
-        "description":{
-          "urls":[
-            
-          ]
-        }
-      },
-      "protected":true,
-      "followers_count":11,
-      "friends_count":7,
-      "listed_count":5,
-      "created_at":"Mon Apr 18 04:33:09 +0000 2011",
-      "favourites_count":17,
-      "utc_offset":28800,
-      "time_zone":"Irkutsk",
-      "geo_enabled":false,
-      "verified":false,
-      "statuses_count":176,
-      "lang":"ja",
-      "contributors_enabled":false,
-      "is_translator":false,
-      "is_translation_enabled":false,
-      "profile_background_color":"C0DEED",
-      "profile_background_image_url":"http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
-      "profile_background_image_url_https":"https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
-      "profile_background_tile":false,
-      "profile_image_url":"http:\/\/pbs.twimg.com\/profile_images\/3563596144\/805e8bb941807000dc7e672f8c23797e_normal.png",
-      "profile_image_url_https":"https:\/\/pbs.twimg.com\/profile_images\/3563596144\/805e8bb941807000dc7e672f8c23797e_normal.png",
-      "profile_link_color":"0084B4",
-      "profile_sidebar_border_color":"C0DEED",
-      "profile_sidebar_fill_color":"DDEEF6",
-      "profile_text_color":"333333",
-      "profile_use_background_image":true,
-      "has_extended_profile":false,
-      "default_profile":true,
-      "default_profile_image":false,
-      "following":true,
-      "follow_request_sent":false,
-      "notifications":false
-    },
-    "geo":null,
-    "coordinates":null,
-    "place":null,
-    "contributors":null,
-    "is_quote_status":false,
-    "retweet_count":0,
-    "favorite_count":0,
-    "entities":{
-      "hashtags":[
-        {
-          "text":"gggg",
-          "indices":[
-            12,
-            17
-          ]
-        },
-        {
-          "text":"tspot",
-          "indices":[
-            60,
-            66
-          ]
-        }
-      ],
-      "symbols":[
-        
-      ],
-      "user_mentions":[
-        {
-          "screen_name":"ematette",
-          "name":"まん",
-          "id":116937821,
-          "id_str":"116937821",
-          "indices":[
-            0,
-            9
-          ]
-        }
-      ],
-      "urls":[
-        {
-          "url":"http:\/\/t.co\/nYmBvKZIaX",
-          "expanded_url":"http:\/\/bit.ly\/16qqldS",
-          "display_url":"bit.ly\/16qqldS",
-          "indices":[
-            34,
-            56
-          ]
-        }
-      ]
-    },
-    "favorited":false,
-    "retweeted":false,
-    "possibly_sensitive":false,
-    "lang":"ja"
-  },
-  {
-    "created_at":"Fri Apr 26 09:08:51 +0000 2013",
-    "id":327710856886493185,
-    "id_str":"327710856886493185",
-    "text":"@ematette https:\/\/t.co\/CcQhoTAYVC",
-    "source":"<a href=\"http:\/\/twipple.jp\/\" rel=\"nofollow\">ついっぷる Pro for Android　<\/a>",
-    "truncated":false,
-    "in_reply_to_status_id":323698265356914688,
-    "in_reply_to_status_id_str":"323698265356914688",
-    "in_reply_to_user_id":116937821,
-    "in_reply_to_user_id_str":"116937821",
-    "in_reply_to_screen_name":"ematette",
-    "user":{
-      "id":116937821,
-      "id_str":"116937821",
-      "name":"まん",
-      "screen_name":"ematette",
-      "location":"東京特許許可局",
-      "description":"はろー！\nしらべものしてます\nそっとしておいてね",
-      "url":"http:\/\/t.co\/o6vDHyKtmj",
-      "entities":{
-        "url":{
-          "urls":[
-            {
-              "url":"http:\/\/t.co\/o6vDHyKtmj",
-              "expanded_url":"http:\/\/twitter.com\/ematette",
-              "display_url":"twitter.com\/ematette",
-              "indices":[
-                0,
-                22
-              ]
-            }
-          ]
-        },
-        "description":{
-          "urls":[
-            
-          ]
-        }
-      },
-      "protected":true,
-      "followers_count":21,
-      "friends_count":30,
-      "listed_count":11,
-      "created_at":"Wed Feb 24 01:37:46 +0000 2010",
-      "favourites_count":152,
+      "protected":false,
+      "followers_count":133,
+      "friends_count":218,
+      "listed_count":2,
+      "created_at":"Wed Sep 17 09:13:31 +0000 2008",
+      "favourites_count":689,
       "utc_offset":32400,
-      "time_zone":"Sapporo",
+      "time_zone":"Tokyo",
       "geo_enabled":true,
       "verified":false,
-      "statuses_count":9860,
+      "statuses_count":23355,
       "lang":"ja",
       "contributors_enabled":false,
       "is_translator":false,
       "is_translation_enabled":false,
-      "profile_background_color":"022330",
-      "profile_background_image_url":"http:\/\/abs.twimg.com\/images\/themes\/theme9\/bg.gif",
-      "profile_background_image_url_https":"https:\/\/abs.twimg.com\/images\/themes\/theme9\/bg.gif",
-      "profile_background_tile":false,
-      "profile_image_url":"http:\/\/pbs.twimg.com\/profile_images\/1477166795\/41CK7BY0A2L_normal.jpg",
-      "profile_image_url_https":"https:\/\/pbs.twimg.com\/profile_images\/1477166795\/41CK7BY0A2L_normal.jpg",
+      "profile_background_color":"9AE4E8",
+      "profile_background_image_url":"http:\/\/pbs.twimg.com\/profile_background_images\/32125385\/xroot.png",
+      "profile_background_image_url_https":"https:\/\/pbs.twimg.com\/profile_background_images\/32125385\/xroot.png",
+      "profile_background_tile":true,
+      "profile_image_url":"http:\/\/pbs.twimg.com\/profile_images\/378800000244738020\/d9f8f36624662515343608a92d34809a_normal.jpeg",
+      "profile_image_url_https":"https:\/\/pbs.twimg.com\/profile_images\/378800000244738020\/d9f8f36624662515343608a92d34809a_normal.jpeg",
+      "profile_banner_url":"https:\/\/pbs.twimg.com\/profile_banners\/16325692\/1429104730",
       "profile_link_color":"0084B4",
-      "profile_sidebar_border_color":"A8C7F7",
-      "profile_sidebar_fill_color":"C0DFEC",
-      "profile_text_color":"C2C2C2",
+      "profile_sidebar_border_color":"BDDCAD",
+      "profile_sidebar_fill_color":"DDFFCC",
+      "profile_text_color":"333333",
       "profile_use_background_image":true,
       "has_extended_profile":false,
       "default_profile":false,
       "default_profile_image":false,
-      "following":false,
+      "following":true,
       "follow_request_sent":false,
       "notifications":false
     },
@@ -587,107 +64,7 @@
     "coordinates":null,
     "place":null,
     "contributors":null,
-    "quoted_status_id":312118303499882496,
-    "quoted_status_id_str":"312118303499882496",
-    "quoted_status":{
-      "created_at":"Thu Mar 14 08:29:37 +0000 2013",
-      "id":312118303499882496,
-      "id_str":"312118303499882496",
-      "text":"1",
-      "source":"<a href=\"http:\/\/sites.google.com\/site\/yorufukurou\/\" rel=\"nofollow\">YoruFukurou<\/a>",
-      "truncated":false,
-      "in_reply_to_status_id":null,
-      "in_reply_to_status_id_str":null,
-      "in_reply_to_user_id":null,
-      "in_reply_to_user_id_str":null,
-      "in_reply_to_screen_name":null,
-      "user":{
-        "id":308335075,
-        "id_str":"308335075",
-        "name":"pokosho",
-        "screen_name":"pokosho",
-        "location":"",
-        "description":"",
-        "url":"http:\/\/t.co\/6G7goOCn",
-        "entities":{
-          "url":{
-            "urls":[
-              {
-                "url":"http:\/\/t.co\/6G7goOCn",
-                "expanded_url":"http:\/\/pokosho.com",
-                "display_url":"pokosho.com",
-                "indices":[
-                  0,
-                  20
-                ]
-              }
-            ]
-          },
-          "description":{
-            "urls":[
-              
-            ]
-          }
-        },
-        "protected":false,
-        "followers_count":6,
-        "friends_count":3,
-        "listed_count":0,
-        "created_at":"Tue May 31 07:06:01 +0000 2011",
-        "favourites_count":4,
-        "utc_offset":null,
-        "time_zone":null,
-        "geo_enabled":false,
-        "verified":false,
-        "statuses_count":200,
-        "lang":"ja",
-        "contributors_enabled":false,
-        "is_translator":false,
-        "is_translation_enabled":false,
-        "profile_background_color":"C0DEED",
-        "profile_background_image_url":"http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
-        "profile_background_image_url_https":"https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
-        "profile_background_tile":false,
-        "profile_image_url":"http:\/\/pbs.twimg.com\/profile_images\/3192926134\/0966f8103e0ca0e829edb46f30dee974_normal.png",
-        "profile_image_url_https":"https:\/\/pbs.twimg.com\/profile_images\/3192926134\/0966f8103e0ca0e829edb46f30dee974_normal.png",
-        "profile_link_color":"0084B4",
-        "profile_sidebar_border_color":"C0DEED",
-        "profile_sidebar_fill_color":"DDEEF6",
-        "profile_text_color":"333333",
-        "profile_use_background_image":true,
-        "has_extended_profile":false,
-        "default_profile":true,
-        "default_profile_image":false,
-        "following":true,
-        "follow_request_sent":false,
-        "notifications":false
-      },
-      "geo":null,
-      "coordinates":null,
-      "place":null,
-      "contributors":null,
-      "is_quote_status":false,
-      "retweet_count":0,
-      "favorite_count":0,
-      "entities":{
-        "hashtags":[
-          
-        ],
-        "symbols":[
-          
-        ],
-        "user_mentions":[
-          
-        ],
-        "urls":[
-          
-        ]
-      },
-      "favorited":false,
-      "retweeted":false,
-      "lang":"und"
-    },
-    "is_quote_status":true,
+    "is_quote_status":false,
     "retweet_count":0,
     "favorite_count":0,
     "entities":{
@@ -699,31 +76,948 @@
       ],
       "user_mentions":[
         {
-          "screen_name":"ematette",
-          "name":"まん",
-          "id":116937821,
-          "id_str":"116937821",
+          "screen_name":"waketi",
+          "name":"わけち",
+          "id":212984680,
+          "id_str":"212984680",
           "indices":[
             0,
-            9
+            7
           ]
         }
       ],
       "urls":[
-        {
-          "url":"https:\/\/t.co\/CcQhoTAYVC",
-          "expanded_url":"https:\/\/twitter.com\/pokosho\/status\/312118303499882496",
-          "display_url":"twitter.com\/pokosho\/status…",
-          "indices":[
-            10,
-            33
-          ]
-        }
+        
       ]
     },
     "favorited":false,
     "retweeted":false,
-    "possibly_sensitive":false,
-    "lang":"und"
+    "lang":"ja"
+  },
+  {
+    "created_at":"Thu Jul 16 20:57:16 +0000 2015",
+    "id":621785693887422464,
+    "id_str":"621785693887422464",
+    "text":"@waketi おもてなし",
+    "source":"<a href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\">Twitter for iPhone<\/a>",
+    "truncated":false,
+    "in_reply_to_status_id":621771788423294976,
+    "in_reply_to_status_id_str":"621771788423294976",
+    "in_reply_to_user_id":212984680,
+    "in_reply_to_user_id_str":"212984680",
+    "in_reply_to_screen_name":"waketi",
+    "user":{
+      "id":1183436546,
+      "id_str":"1183436546",
+      "name":"みゃー。",
+      "screen_name":"myaaaaa_328",
+      "location":"ときよ。",
+      "description":"そろそろbot更新の時期ですね。新作リリースしたい。",
+      "url":null,
+      "entities":{
+        "description":{
+          "urls":[
+            
+          ]
+        }
+      },
+      "protected":false,
+      "followers_count":38,
+      "friends_count":50,
+      "listed_count":6,
+      "created_at":"Fri Feb 15 18:34:29 +0000 2013",
+      "favourites_count":133,
+      "utc_offset":null,
+      "time_zone":null,
+      "geo_enabled":true,
+      "verified":false,
+      "statuses_count":8190,
+      "lang":"ja",
+      "contributors_enabled":false,
+      "is_translator":false,
+      "is_translation_enabled":false,
+      "profile_background_color":"C0DEED",
+      "profile_background_image_url":"http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https":"https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile":false,
+      "profile_image_url":"http:\/\/pbs.twimg.com\/profile_images\/452089390970318848\/A9KkdD-C_normal.jpeg",
+      "profile_image_url_https":"https:\/\/pbs.twimg.com\/profile_images\/452089390970318848\/A9KkdD-C_normal.jpeg",
+      "profile_banner_url":"https:\/\/pbs.twimg.com\/profile_banners\/1183436546\/1407549375",
+      "profile_link_color":"F7A623",
+      "profile_sidebar_border_color":"C0DEED",
+      "profile_sidebar_fill_color":"DDEEF6",
+      "profile_text_color":"333333",
+      "profile_use_background_image":true,
+      "has_extended_profile":false,
+      "default_profile":false,
+      "default_profile_image":false,
+      "following":true,
+      "follow_request_sent":false,
+      "notifications":false
+    },
+    "geo":null,
+    "coordinates":null,
+    "place":null,
+    "contributors":null,
+    "is_quote_status":false,
+    "retweet_count":0,
+    "favorite_count":0,
+    "entities":{
+      "hashtags":[
+        
+      ],
+      "symbols":[
+        
+      ],
+      "user_mentions":[
+        {
+          "screen_name":"waketi",
+          "name":"わけち",
+          "id":212984680,
+          "id_str":"212984680",
+          "indices":[
+            0,
+            7
+          ]
+        }
+      ],
+      "urls":[
+        
+      ]
+    },
+    "favorited":false,
+    "retweeted":false,
+    "lang":"ja"
+  },
+  {
+    "created_at":"Sat Jul 11 02:09:31 +0000 2015",
+    "id":619689949307121664,
+    "id_str":"619689949307121664",
+    "text":"@waketi エクセル方眼紙撲滅してよ",
+    "source":"<a href=\"http:\/\/twipple.jp\/\" rel=\"nofollow\">ついっぷる　<\/a>",
+    "truncated":false,
+    "in_reply_to_status_id":619688965793132544,
+    "in_reply_to_status_id_str":"619688965793132544",
+    "in_reply_to_user_id":212984680,
+    "in_reply_to_user_id_str":"212984680",
+    "in_reply_to_screen_name":"waketi",
+    "user":{
+      "id":96527201,
+      "id_str":"96527201",
+      "name":"moritaro",
+      "screen_name":"moritaro1Q85",
+      "location":"東京都",
+      "description":"東京都在住へたれSE  http:\/\/t.co\/EU85YDipX6",
+      "url":"http:\/\/t.co\/bnbzjkdzpz",
+      "entities":{
+        "url":{
+          "urls":[
+            {
+              "url":"http:\/\/t.co\/bnbzjkdzpz",
+              "expanded_url":"http:\/\/moritaro.mydns.jp\/",
+              "display_url":"moritaro.mydns.jp",
+              "indices":[
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description":{
+          "urls":[
+            {
+              "url":"http:\/\/t.co\/EU85YDipX6",
+              "expanded_url":"http:\/\/twilog.org\/moritaro1Q85",
+              "display_url":"twilog.org\/moritaro1Q85",
+              "indices":[
+                12,
+                34
+              ]
+            }
+          ]
+        }
+      },
+      "protected":false,
+      "followers_count":104,
+      "friends_count":74,
+      "listed_count":3,
+      "created_at":"Sun Dec 13 10:33:35 +0000 2009",
+      "favourites_count":75,
+      "utc_offset":32400,
+      "time_zone":"Tokyo",
+      "geo_enabled":false,
+      "verified":false,
+      "statuses_count":11975,
+      "lang":"ja",
+      "contributors_enabled":false,
+      "is_translator":false,
+      "is_translation_enabled":false,
+      "profile_background_color":"9AE4E8",
+      "profile_background_image_url":"http:\/\/abs.twimg.com\/images\/themes\/theme16\/bg.gif",
+      "profile_background_image_url_https":"https:\/\/abs.twimg.com\/images\/themes\/theme16\/bg.gif",
+      "profile_background_tile":false,
+      "profile_image_url":"http:\/\/pbs.twimg.com\/profile_images\/1941911028\/Jim_Raynor_n00bz_toy_normal.jpg",
+      "profile_image_url_https":"https:\/\/pbs.twimg.com\/profile_images\/1941911028\/Jim_Raynor_n00bz_toy_normal.jpg",
+      "profile_link_color":"0084B4",
+      "profile_sidebar_border_color":"BDDCAD",
+      "profile_sidebar_fill_color":"DDFFCC",
+      "profile_text_color":"333333",
+      "profile_use_background_image":true,
+      "has_extended_profile":false,
+      "default_profile":false,
+      "default_profile_image":false,
+      "following":true,
+      "follow_request_sent":false,
+      "notifications":false
+    },
+    "geo":null,
+    "coordinates":null,
+    "place":null,
+    "contributors":null,
+    "is_quote_status":false,
+    "retweet_count":2,
+    "favorite_count":0,
+    "entities":{
+      "hashtags":[
+        
+      ],
+      "symbols":[
+        
+      ],
+      "user_mentions":[
+        {
+          "screen_name":"waketi",
+          "name":"わけち",
+          "id":212984680,
+          "id_str":"212984680",
+          "indices":[
+            0,
+            7
+          ]
+        }
+      ],
+      "urls":[
+        
+      ]
+    },
+    "favorited":false,
+    "retweeted":false,
+    "lang":"ja"
+  },
+  {
+    "created_at":"Sat Jul 11 00:46:27 +0000 2015",
+    "id":619669043599900672,
+    "id_str":"619669043599900672",
+    "text":"@waketi それあかん薬や…",
+    "source":"<a href=\"http:\/\/covelline.com\/feather\/\" rel=\"nofollow\">feather for iOS<\/a>",
+    "truncated":false,
+    "in_reply_to_status_id":619627705894473728,
+    "in_reply_to_status_id_str":"619627705894473728",
+    "in_reply_to_user_id":212984680,
+    "in_reply_to_user_id_str":"212984680",
+    "in_reply_to_screen_name":"waketi",
+    "user":{
+      "id":5580052,
+      "id_str":"5580052",
+      "name":"カイバ",
+      "screen_name":"kaiba",
+      "location":"生鮮食料品売り場",
+      "description":"プログラムとかCGとか音楽とか料理とか工作とか、何かを作るのが好き。 酒、犬、風呂、散歩、漫画も好き。電子部品ではコンデンサが好き。Excel方眼紙撲滅おじさんです。",
+      "url":"http:\/\/t.co\/qvrf8MpWpZ",
+      "entities":{
+        "url":{
+          "urls":[
+            {
+              "url":"http:\/\/t.co\/qvrf8MpWpZ",
+              "expanded_url":"http:\/\/pokosho.com",
+              "display_url":"pokosho.com",
+              "indices":[
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description":{
+          "urls":[
+            
+          ]
+        }
+      },
+      "protected":false,
+      "followers_count":411,
+      "friends_count":514,
+      "listed_count":20,
+      "created_at":"Sat Apr 28 07:25:51 +0000 2007",
+      "favourites_count":410,
+      "utc_offset":32400,
+      "time_zone":"Tokyo",
+      "geo_enabled":true,
+      "verified":false,
+      "statuses_count":24454,
+      "lang":"ja",
+      "contributors_enabled":false,
+      "is_translator":false,
+      "is_translation_enabled":false,
+      "profile_background_color":"AAAAAA",
+      "profile_background_image_url":"http:\/\/pbs.twimg.com\/profile_background_images\/619082\/bg_body.png",
+      "profile_background_image_url_https":"https:\/\/pbs.twimg.com\/profile_background_images\/619082\/bg_body.png",
+      "profile_background_tile":true,
+      "profile_image_url":"http:\/\/pbs.twimg.com\/profile_images\/609982885433507841\/v7wHo16i_normal.png",
+      "profile_image_url_https":"https:\/\/pbs.twimg.com\/profile_images\/609982885433507841\/v7wHo16i_normal.png",
+      "profile_banner_url":"https:\/\/pbs.twimg.com\/profile_banners\/5580052\/1410678444",
+      "profile_link_color":"0000FF",
+      "profile_sidebar_border_color":"FF57A0",
+      "profile_sidebar_fill_color":"C3D0E9",
+      "profile_text_color":"000000",
+      "profile_use_background_image":true,
+      "has_extended_profile":false,
+      "default_profile":false,
+      "default_profile_image":false,
+      "following":true,
+      "follow_request_sent":false,
+      "notifications":false
+    },
+    "geo":null,
+    "coordinates":null,
+    "place":null,
+    "contributors":null,
+    "is_quote_status":false,
+    "retweet_count":0,
+    "favorite_count":0,
+    "entities":{
+      "hashtags":[
+        
+      ],
+      "symbols":[
+        
+      ],
+      "user_mentions":[
+        {
+          "screen_name":"waketi",
+          "name":"わけち",
+          "id":212984680,
+          "id_str":"212984680",
+          "indices":[
+            0,
+            7
+          ]
+        }
+      ],
+      "urls":[
+        
+      ]
+    },
+    "favorited":false,
+    "retweeted":false,
+    "lang":"ja"
+  },
+  {
+    "created_at":"Thu Jul 09 10:32:02 +0000 2015",
+    "id":619091632630018048,
+    "id_str":"619091632630018048",
+    "text":"@waketi 我が社には君が必要だ。",
+    "source":"<a href=\"http:\/\/covelline.com\/feather\/\" rel=\"nofollow\">feather for iOS<\/a>",
+    "truncated":false,
+    "in_reply_to_status_id":619070101522755584,
+    "in_reply_to_status_id_str":"619070101522755584",
+    "in_reply_to_user_id":212984680,
+    "in_reply_to_user_id_str":"212984680",
+    "in_reply_to_screen_name":"waketi",
+    "user":{
+      "id":158368480,
+      "id_str":"158368480",
+      "name":"ぱきＢＯＴ！",
+      "screen_name":"_talzolet_",
+      "location":"透明plastics",
+      "description":"カメラとか！\nEtude Lavieとか！\nよねッス。\nIG@say_zy",
+      "url":null,
+      "entities":{
+        "description":{
+          "urls":[
+            
+          ]
+        }
+      },
+      "protected":false,
+      "followers_count":274,
+      "friends_count":589,
+      "listed_count":13,
+      "created_at":"Tue Jun 22 13:21:29 +0000 2010",
+      "favourites_count":7822,
+      "utc_offset":32400,
+      "time_zone":"Tokyo",
+      "geo_enabled":true,
+      "verified":false,
+      "statuses_count":56165,
+      "lang":"ja",
+      "contributors_enabled":false,
+      "is_translator":false,
+      "is_translation_enabled":false,
+      "profile_background_color":"AFEB5B",
+      "profile_background_image_url":"http:\/\/pbs.twimg.com\/profile_background_images\/766122505\/71089c56fa268db519fde951dfa98837.gif",
+      "profile_background_image_url_https":"https:\/\/pbs.twimg.com\/profile_background_images\/766122505\/71089c56fa268db519fde951dfa98837.gif",
+      "profile_background_tile":false,
+      "profile_image_url":"http:\/\/pbs.twimg.com\/profile_images\/622265731531407361\/qMjDN2w5_normal.jpg",
+      "profile_image_url_https":"https:\/\/pbs.twimg.com\/profile_images\/622265731531407361\/qMjDN2w5_normal.jpg",
+      "profile_banner_url":"https:\/\/pbs.twimg.com\/profile_banners\/158368480\/1422452434",
+      "profile_link_color":"00B306",
+      "profile_sidebar_border_color":"FFFFFF",
+      "profile_sidebar_fill_color":"DDFFCC",
+      "profile_text_color":"333333",
+      "profile_use_background_image":true,
+      "has_extended_profile":false,
+      "default_profile":false,
+      "default_profile_image":false,
+      "following":true,
+      "follow_request_sent":false,
+      "notifications":false
+    },
+    "geo":null,
+    "coordinates":null,
+    "place":null,
+    "contributors":null,
+    "is_quote_status":false,
+    "retweet_count":0,
+    "favorite_count":0,
+    "entities":{
+      "hashtags":[
+        
+      ],
+      "symbols":[
+        
+      ],
+      "user_mentions":[
+        {
+          "screen_name":"waketi",
+          "name":"わけち",
+          "id":212984680,
+          "id_str":"212984680",
+          "indices":[
+            0,
+            7
+          ]
+        }
+      ],
+      "urls":[
+        
+      ]
+    },
+    "favorited":false,
+    "retweeted":false,
+    "lang":"ja"
+  },
+  {
+    "created_at":"Wed Jul 08 23:54:18 +0000 2015",
+    "id":618931143153311744,
+    "id_str":"618931143153311744",
+    "text":"@waketi もっと褒めて！",
+    "source":"<a href=\"http:\/\/covelline.com\/feather\/\" rel=\"nofollow\">feather for iOS<\/a>",
+    "truncated":false,
+    "in_reply_to_status_id":618930970280853504,
+    "in_reply_to_status_id_str":"618930970280853504",
+    "in_reply_to_user_id":212984680,
+    "in_reply_to_user_id_str":"212984680",
+    "in_reply_to_screen_name":"waketi",
+    "user":{
+      "id":5580052,
+      "id_str":"5580052",
+      "name":"カイバ",
+      "screen_name":"kaiba",
+      "location":"生鮮食料品売り場",
+      "description":"プログラムとかCGとか音楽とか料理とか工作とか、何かを作るのが好き。 酒、犬、風呂、散歩、漫画も好き。電子部品ではコンデンサが好き。Excel方眼紙撲滅おじさんです。",
+      "url":"http:\/\/t.co\/qvrf8MpWpZ",
+      "entities":{
+        "url":{
+          "urls":[
+            {
+              "url":"http:\/\/t.co\/qvrf8MpWpZ",
+              "expanded_url":"http:\/\/pokosho.com",
+              "display_url":"pokosho.com",
+              "indices":[
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description":{
+          "urls":[
+            
+          ]
+        }
+      },
+      "protected":false,
+      "followers_count":411,
+      "friends_count":514,
+      "listed_count":20,
+      "created_at":"Sat Apr 28 07:25:51 +0000 2007",
+      "favourites_count":410,
+      "utc_offset":32400,
+      "time_zone":"Tokyo",
+      "geo_enabled":true,
+      "verified":false,
+      "statuses_count":24454,
+      "lang":"ja",
+      "contributors_enabled":false,
+      "is_translator":false,
+      "is_translation_enabled":false,
+      "profile_background_color":"AAAAAA",
+      "profile_background_image_url":"http:\/\/pbs.twimg.com\/profile_background_images\/619082\/bg_body.png",
+      "profile_background_image_url_https":"https:\/\/pbs.twimg.com\/profile_background_images\/619082\/bg_body.png",
+      "profile_background_tile":true,
+      "profile_image_url":"http:\/\/pbs.twimg.com\/profile_images\/609982885433507841\/v7wHo16i_normal.png",
+      "profile_image_url_https":"https:\/\/pbs.twimg.com\/profile_images\/609982885433507841\/v7wHo16i_normal.png",
+      "profile_banner_url":"https:\/\/pbs.twimg.com\/profile_banners\/5580052\/1410678444",
+      "profile_link_color":"0000FF",
+      "profile_sidebar_border_color":"FF57A0",
+      "profile_sidebar_fill_color":"C3D0E9",
+      "profile_text_color":"000000",
+      "profile_use_background_image":true,
+      "has_extended_profile":false,
+      "default_profile":false,
+      "default_profile_image":false,
+      "following":true,
+      "follow_request_sent":false,
+      "notifications":false
+    },
+    "geo":null,
+    "coordinates":null,
+    "place":null,
+    "contributors":null,
+    "is_quote_status":false,
+    "retweet_count":0,
+    "favorite_count":0,
+    "entities":{
+      "hashtags":[
+        
+      ],
+      "symbols":[
+        
+      ],
+      "user_mentions":[
+        {
+          "screen_name":"waketi",
+          "name":"わけち",
+          "id":212984680,
+          "id_str":"212984680",
+          "indices":[
+            0,
+            7
+          ]
+        }
+      ],
+      "urls":[
+        
+      ]
+    },
+    "favorited":false,
+    "retweeted":false,
+    "lang":"ja"
+  },
+  {
+    "created_at":"Sun Jul 05 03:10:21 +0000 2015",
+    "id":617530930727514112,
+    "id_str":"617530930727514112",
+    "text":"@waketi 重力100",
+    "source":"<a href=\"http:\/\/covelline.com\/feather\/\" rel=\"nofollow\">feather for iOS<\/a>",
+    "truncated":false,
+    "in_reply_to_status_id":617319040952827904,
+    "in_reply_to_status_id_str":"617319040952827904",
+    "in_reply_to_user_id":212984680,
+    "in_reply_to_user_id_str":"212984680",
+    "in_reply_to_screen_name":"waketi",
+    "user":{
+      "id":5580052,
+      "id_str":"5580052",
+      "name":"カイバ",
+      "screen_name":"kaiba",
+      "location":"生鮮食料品売り場",
+      "description":"プログラムとかCGとか音楽とか料理とか工作とか、何かを作るのが好き。 酒、犬、風呂、散歩、漫画も好き。電子部品ではコンデンサが好き。Excel方眼紙撲滅おじさんです。",
+      "url":"http:\/\/t.co\/qvrf8MpWpZ",
+      "entities":{
+        "url":{
+          "urls":[
+            {
+              "url":"http:\/\/t.co\/qvrf8MpWpZ",
+              "expanded_url":"http:\/\/pokosho.com",
+              "display_url":"pokosho.com",
+              "indices":[
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description":{
+          "urls":[
+            
+          ]
+        }
+      },
+      "protected":false,
+      "followers_count":411,
+      "friends_count":514,
+      "listed_count":20,
+      "created_at":"Sat Apr 28 07:25:51 +0000 2007",
+      "favourites_count":410,
+      "utc_offset":32400,
+      "time_zone":"Tokyo",
+      "geo_enabled":true,
+      "verified":false,
+      "statuses_count":24454,
+      "lang":"ja",
+      "contributors_enabled":false,
+      "is_translator":false,
+      "is_translation_enabled":false,
+      "profile_background_color":"AAAAAA",
+      "profile_background_image_url":"http:\/\/pbs.twimg.com\/profile_background_images\/619082\/bg_body.png",
+      "profile_background_image_url_https":"https:\/\/pbs.twimg.com\/profile_background_images\/619082\/bg_body.png",
+      "profile_background_tile":true,
+      "profile_image_url":"http:\/\/pbs.twimg.com\/profile_images\/609982885433507841\/v7wHo16i_normal.png",
+      "profile_image_url_https":"https:\/\/pbs.twimg.com\/profile_images\/609982885433507841\/v7wHo16i_normal.png",
+      "profile_banner_url":"https:\/\/pbs.twimg.com\/profile_banners\/5580052\/1410678444",
+      "profile_link_color":"0000FF",
+      "profile_sidebar_border_color":"FF57A0",
+      "profile_sidebar_fill_color":"C3D0E9",
+      "profile_text_color":"000000",
+      "profile_use_background_image":true,
+      "has_extended_profile":false,
+      "default_profile":false,
+      "default_profile_image":false,
+      "following":true,
+      "follow_request_sent":false,
+      "notifications":false
+    },
+    "geo":null,
+    "coordinates":null,
+    "place":null,
+    "contributors":null,
+    "is_quote_status":false,
+    "retweet_count":0,
+    "favorite_count":0,
+    "entities":{
+      "hashtags":[
+        
+      ],
+      "symbols":[
+        
+      ],
+      "user_mentions":[
+        {
+          "screen_name":"waketi",
+          "name":"わけち",
+          "id":212984680,
+          "id_str":"212984680",
+          "indices":[
+            0,
+            7
+          ]
+        }
+      ],
+      "urls":[
+        
+      ]
+    },
+    "favorited":false,
+    "retweeted":false,
+    "lang":"ja"
+  },
+  {
+    "created_at":"Mon Jun 29 04:24:13 +0000 2015",
+    "id":615375190105550848,
+    "id_str":"615375190105550848",
+    "text":"@waketi いっぱい覚えましたし。",
+    "source":"<a href=\"http:\/\/janetter.net\/\" rel=\"nofollow\">Janetter<\/a>",
+    "truncated":false,
+    "in_reply_to_status_id":615371197040103424,
+    "in_reply_to_status_id_str":"615371197040103424",
+    "in_reply_to_user_id":212984680,
+    "in_reply_to_user_id_str":"212984680",
+    "in_reply_to_screen_name":"waketi",
+    "user":{
+      "id":5580052,
+      "id_str":"5580052",
+      "name":"カイバ",
+      "screen_name":"kaiba",
+      "location":"生鮮食料品売り場",
+      "description":"プログラムとかCGとか音楽とか料理とか工作とか、何かを作るのが好き。 酒、犬、風呂、散歩、漫画も好き。電子部品ではコンデンサが好き。Excel方眼紙撲滅おじさんです。",
+      "url":"http:\/\/t.co\/qvrf8MpWpZ",
+      "entities":{
+        "url":{
+          "urls":[
+            {
+              "url":"http:\/\/t.co\/qvrf8MpWpZ",
+              "expanded_url":"http:\/\/pokosho.com",
+              "display_url":"pokosho.com",
+              "indices":[
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description":{
+          "urls":[
+            
+          ]
+        }
+      },
+      "protected":false,
+      "followers_count":411,
+      "friends_count":514,
+      "listed_count":20,
+      "created_at":"Sat Apr 28 07:25:51 +0000 2007",
+      "favourites_count":410,
+      "utc_offset":32400,
+      "time_zone":"Tokyo",
+      "geo_enabled":true,
+      "verified":false,
+      "statuses_count":24454,
+      "lang":"ja",
+      "contributors_enabled":false,
+      "is_translator":false,
+      "is_translation_enabled":false,
+      "profile_background_color":"AAAAAA",
+      "profile_background_image_url":"http:\/\/pbs.twimg.com\/profile_background_images\/619082\/bg_body.png",
+      "profile_background_image_url_https":"https:\/\/pbs.twimg.com\/profile_background_images\/619082\/bg_body.png",
+      "profile_background_tile":true,
+      "profile_image_url":"http:\/\/pbs.twimg.com\/profile_images\/609982885433507841\/v7wHo16i_normal.png",
+      "profile_image_url_https":"https:\/\/pbs.twimg.com\/profile_images\/609982885433507841\/v7wHo16i_normal.png",
+      "profile_banner_url":"https:\/\/pbs.twimg.com\/profile_banners\/5580052\/1410678444",
+      "profile_link_color":"0000FF",
+      "profile_sidebar_border_color":"FF57A0",
+      "profile_sidebar_fill_color":"C3D0E9",
+      "profile_text_color":"000000",
+      "profile_use_background_image":true,
+      "has_extended_profile":false,
+      "default_profile":false,
+      "default_profile_image":false,
+      "following":true,
+      "follow_request_sent":false,
+      "notifications":false
+    },
+    "geo":null,
+    "coordinates":null,
+    "place":null,
+    "contributors":null,
+    "is_quote_status":false,
+    "retweet_count":0,
+    "favorite_count":0,
+    "entities":{
+      "hashtags":[
+        
+      ],
+      "symbols":[
+        
+      ],
+      "user_mentions":[
+        {
+          "screen_name":"waketi",
+          "name":"わけち",
+          "id":212984680,
+          "id_str":"212984680",
+          "indices":[
+            0,
+            7
+          ]
+        }
+      ],
+      "urls":[
+        
+      ]
+    },
+    "favorited":false,
+    "retweeted":false,
+    "lang":"ja"
+  },
+  {
+    "created_at":"Thu Jun 25 12:10:37 +0000 2015",
+    "id":614043012860022784,
+    "id_str":"614043012860022784",
+    "text":"@waketi 力士シール",
+    "source":"<a href=\"http:\/\/www.tweetcaster.com\" rel=\"nofollow\">TweetCaster for Android<\/a>",
+    "truncated":false,
+    "in_reply_to_status_id":614011873877331968,
+    "in_reply_to_status_id_str":"614011873877331968",
+    "in_reply_to_user_id":212984680,
+    "in_reply_to_user_id_str":"212984680",
+    "in_reply_to_screen_name":"waketi",
+    "user":{
+      "id":470005466,
+      "id_str":"470005466",
+      "name":"Shatterd Skies",
+      "screen_name":"Su27IB",
+      "location":"",
+      "description":"新入社員じゃなくなった",
+      "url":null,
+      "entities":{
+        "description":{
+          "urls":[
+            
+          ]
+        }
+      },
+      "protected":false,
+      "followers_count":45,
+      "friends_count":30,
+      "listed_count":1,
+      "created_at":"Sat Jan 21 06:58:42 +0000 2012",
+      "favourites_count":0,
+      "utc_offset":28800,
+      "time_zone":"Irkutsk",
+      "geo_enabled":false,
+      "verified":false,
+      "statuses_count":800,
+      "lang":"ja",
+      "contributors_enabled":false,
+      "is_translator":false,
+      "is_translation_enabled":false,
+      "profile_background_color":"C0DEED",
+      "profile_background_image_url":"http:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_image_url_https":"https:\/\/abs.twimg.com\/images\/themes\/theme1\/bg.png",
+      "profile_background_tile":false,
+      "profile_image_url":"http:\/\/pbs.twimg.com\/profile_images\/2448141264\/profile_normal.jpg",
+      "profile_image_url_https":"https:\/\/pbs.twimg.com\/profile_images\/2448141264\/profile_normal.jpg",
+      "profile_link_color":"0084B4",
+      "profile_sidebar_border_color":"C0DEED",
+      "profile_sidebar_fill_color":"DDEEF6",
+      "profile_text_color":"333333",
+      "profile_use_background_image":true,
+      "has_extended_profile":false,
+      "default_profile":true,
+      "default_profile_image":false,
+      "following":true,
+      "follow_request_sent":false,
+      "notifications":false
+    },
+    "geo":null,
+    "coordinates":null,
+    "place":null,
+    "contributors":null,
+    "is_quote_status":false,
+    "retweet_count":0,
+    "favorite_count":0,
+    "entities":{
+      "hashtags":[
+        
+      ],
+      "symbols":[
+        
+      ],
+      "user_mentions":[
+        {
+          "screen_name":"waketi",
+          "name":"わけち",
+          "id":212984680,
+          "id_str":"212984680",
+          "indices":[
+            0,
+            7
+          ]
+        }
+      ],
+      "urls":[
+        
+      ]
+    },
+    "favorited":false,
+    "retweeted":false,
+    "lang":"ja"
+  },
+  {
+    "created_at":"Thu Jun 25 07:56:10 +0000 2015",
+    "id":613978978441768961,
+    "id_str":"613978978441768961",
+    "text":"@waketi あーそっちかー",
+    "source":"<a href=\"http:\/\/twitter.com\/download\/iphone\" rel=\"nofollow\">Twitter for iPhone<\/a>",
+    "truncated":false,
+    "in_reply_to_status_id":613978921143418880,
+    "in_reply_to_status_id_str":"613978921143418880",
+    "in_reply_to_user_id":212984680,
+    "in_reply_to_user_id_str":"212984680",
+    "in_reply_to_screen_name":"waketi",
+    "user":{
+      "id":16325692,
+      "id_str":"16325692",
+      "name":"joniburn",
+      "screen_name":"joniburn",
+      "location":"Ramuh鯖",
+      "description":"チャーハンを作って食べるよ！ 艦これ,FF14,jubeat",
+      "url":null,
+      "entities":{
+        "description":{
+          "urls":[
+            
+          ]
+        }
+      },
+      "protected":false,
+      "followers_count":133,
+      "friends_count":218,
+      "listed_count":2,
+      "created_at":"Wed Sep 17 09:13:31 +0000 2008",
+      "favourites_count":689,
+      "utc_offset":32400,
+      "time_zone":"Tokyo",
+      "geo_enabled":true,
+      "verified":false,
+      "statuses_count":23355,
+      "lang":"ja",
+      "contributors_enabled":false,
+      "is_translator":false,
+      "is_translation_enabled":false,
+      "profile_background_color":"9AE4E8",
+      "profile_background_image_url":"http:\/\/pbs.twimg.com\/profile_background_images\/32125385\/xroot.png",
+      "profile_background_image_url_https":"https:\/\/pbs.twimg.com\/profile_background_images\/32125385\/xroot.png",
+      "profile_background_tile":true,
+      "profile_image_url":"http:\/\/pbs.twimg.com\/profile_images\/378800000244738020\/d9f8f36624662515343608a92d34809a_normal.jpeg",
+      "profile_image_url_https":"https:\/\/pbs.twimg.com\/profile_images\/378800000244738020\/d9f8f36624662515343608a92d34809a_normal.jpeg",
+      "profile_banner_url":"https:\/\/pbs.twimg.com\/profile_banners\/16325692\/1429104730",
+      "profile_link_color":"0084B4",
+      "profile_sidebar_border_color":"BDDCAD",
+      "profile_sidebar_fill_color":"DDFFCC",
+      "profile_text_color":"333333",
+      "profile_use_background_image":true,
+      "has_extended_profile":false,
+      "default_profile":false,
+      "default_profile_image":false,
+      "following":true,
+      "follow_request_sent":false,
+      "notifications":false
+    },
+    "geo":null,
+    "coordinates":null,
+    "place":null,
+    "contributors":null,
+    "is_quote_status":false,
+    "retweet_count":0,
+    "favorite_count":0,
+    "entities":{
+      "hashtags":[
+        
+      ],
+      "symbols":[
+        
+      ],
+      "user_mentions":[
+        {
+          "screen_name":"waketi",
+          "name":"わけち",
+          "id":212984680,
+          "id_str":"212984680",
+          "indices":[
+            0,
+            7
+          ]
+        }
+      ],
+      "urls":[
+        
+      ]
+    },
+    "favorited":false,
+    "retweeted":false,
+    "lang":"ja"
   }
 ]
